@@ -1,0 +1,15 @@
+body {
+    padding: 15px;
+    margin: 0;
+    background: #f2f3f5;
+}
+.layui-card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* 修改表单的样式 */
+#form-add,#form-edit{
+    padding-top: 20px;
+    padding-right: 30px;
+}
